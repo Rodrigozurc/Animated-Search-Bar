@@ -1,6 +1,6 @@
 6 projeto com JavaScript
 
-Aula 3
+Aula 6
 
 Animação barra de pesquisa
 
